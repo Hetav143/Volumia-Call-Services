@@ -1,6 +1,6 @@
             </div>
 
-            <footer class="footer"> © <?php echo date('Y')?> | Developed By GenIT Bangladesh </footer>
+            <footer class="footer"> © <?php echo date('Y')?> | Developed By Hetav Patel,Ankush Sharma,Paresh Nayak and Arya Rabadiya Of Parul University. </footer>
 
         </div>
 
